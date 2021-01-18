@@ -21,3 +21,15 @@ if __name__="__main__":
     function
 ```
 ![](images/python.jpg)
+
+### Viñetas
++ c++
++ javascript
++ vue
++ React
+
+### Viñetas2
+- vue
+- react
+- node
+- angular
