@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "![](https://res.cloudinary.com/practicaldev/image/fetch/s--i_sb3chq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/fk0849hvg2rt13bpqhjy.jpg) Bienvenido a la gestión de control de versiones >no olvides hacer tus commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kikemn/git-whorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kikemn/git-whorkshop/issues"
+  },
+  "homepage": "https://github.com/Kikemn/git-whorkshop#readme",
+  "dependencies": {
+    "espress": "0.0.0",
+    "express": "^4.17.1"
+  }
+}
